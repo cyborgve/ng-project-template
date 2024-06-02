@@ -12,7 +12,6 @@
       "@assets/*": ["src/assets/*"]
     },
     "resolveJsonModule": true,
-    "allowSyntheticDefaultImports": true,
     "strictPropertyInitialization": false,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
