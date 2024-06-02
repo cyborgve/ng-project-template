@@ -14,6 +14,6 @@ registerLocaleData(esVE, 'es-VE');
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  title = 'ng17 template';
+  title = 'ng project template';
   version = `v${packajeJson.version}`;
 }
