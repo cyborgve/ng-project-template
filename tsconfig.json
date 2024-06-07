@@ -9,7 +9,7 @@
       "@shared/*": ["src/app/shared/*"],
       "@pages/*": ["src/app/pages/*"],
       "@environments/*": ["src/environments/*"],
-      "@assets/*": ["src/assets/*"]
+      "@public/*": ["public/*"]
     },
     "resolveJsonModule": true,
     "strictPropertyInitialization": false,
